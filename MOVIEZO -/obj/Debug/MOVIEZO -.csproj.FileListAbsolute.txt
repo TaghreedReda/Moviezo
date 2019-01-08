@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\bin\Debug\MOVIEZO -.exe.config
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\bin\Debug\MOVIEZO -.exe
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\bin\Debug\MOVIEZO -.pdb
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO__.Form1.resources
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO__.Properties.Resources.resources
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO -.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO -.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO -.exe
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO -.pdb
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO -.csproj.CopyComplete
+C:\Users\pc\source\repos\MOVIEZO -\MOVIEZO -\obj\Debug\MOVIEZO -.csprojResolveAssemblyReference.cache
